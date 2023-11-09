@@ -1,1 +1,11 @@
 typescript
+typscript has - non javascript features like interfaces or generics
+typescript has rich generic configuration
+next gen javascript features compiled down for older browser
+meta programming features like decorators
+modern tooling that helps even in non typescript projects
+
+core types in typescript---------------->>>>>>>>
+types - numbers all numbers no diffrentiation between integer and floats
+string - all text values
+booleand -true false --just these two no truthy or false values
